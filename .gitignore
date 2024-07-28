@@ -1,0 +1,6 @@
+*.gz
+/zippedData/*
+*.csv
+*.tsv
+**/.ipynb_checkpoints/
+*.db
